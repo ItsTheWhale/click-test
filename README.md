@@ -1,2 +1,3 @@
-# click-test
+# Click Test
 A simple click CPS test
+

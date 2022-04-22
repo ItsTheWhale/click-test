@@ -1,0 +1,13 @@
+body {
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+}
+#clickBox {
+    background-color: skyblue;
+    height: 60vh;
+    width: 50vw;
+}
+.clickbox-container {
+    display: flex;
+    justify-content: center;
+}
